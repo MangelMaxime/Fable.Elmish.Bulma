@@ -1,2 +1,3 @@
 # Fable.Elmish.Bulma
-Placeholder repo
+
+The repo has been moved to [https://github.com/MangelMaxime/Fulma](https://github.com/MangelMaxime/Fulma)
